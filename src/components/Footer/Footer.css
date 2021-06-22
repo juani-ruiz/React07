@@ -1,0 +1,9 @@
+.Footer{
+    display:flex;
+    justify-content: center;
+    background-color:chartreuse;
+    align-items:center;
+    min-height: 20vh;
+    width:100%;
+
+}
